@@ -12,7 +12,7 @@ Cílem projektu je vizualizace a analýza marketingových dat za rok 2024 pomoc�
 
 ---
 
-## Co report umí
+## Detaily reportu
 
 - **Rozsah reportu:** 3 stránky  
 - **Použité nástroje:** Power BI, Power Query  
