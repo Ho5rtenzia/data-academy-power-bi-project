@@ -20,14 +20,14 @@ Cílem projektu je vizualizace a analýza marketingových dat za rok 2024 pomoc�
 
 ### Splněná kritéria
 
-- ✅ Použití **minimálně 5 různých typů vizuálů**:
-- ✅ **Filtrování pomocí slicerů**
-- ✅ **Navigace pomocí bookmarks a tlačítek mezi stránkami**  
-- ✅ **Propojení více datových zdrojů** 
-- ✅ **Datová hierarchie**  
-- ✅ **Vlastní metrika (measure)**
-- ✅ **Kalkulovaný sloupec**
-- ✅ **Grafická úprava** 
+- Použití **minimálně 5 různých typů vizuálů**:
+- **Filtrování pomocí slicerů**
+- **Navigace pomocí bookmarks a tlačítek mezi stránkami**  
+- **Propojení více datových zdrojů** 
+- **Datová hierarchie**  
+- **Vlastní metrika (measure)**
+- **Kalkulovaný sloupec**
+- **Grafická úprava** 
 
 ---
 
